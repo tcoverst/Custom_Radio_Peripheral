@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Mon Apr 15 04:48:53 2024
+# Process ID: 51432
+# Current directory: C:/Users/cover/OneDrive/Documents/vivado/lab6_files/ip_repo/full_radio/src/cmpy_0
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent36420 C:\Users\cover\OneDrive\Documents\vivado\lab6_files\ip_repo\full_radio\src\cmpy_0\cmpy_0.dcp
+# Log file: C:/Users/cover/OneDrive/Documents/vivado/lab6_files/ip_repo/full_radio/src/cmpy_0/vivado.log
+# Journal file: C:/Users/cover/OneDrive/Documents/vivado/lab6_files/ip_repo/full_radio/src/cmpy_0\vivado.jou
+# Running On: SpaceStationV, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 10, Host memory: 16876 MB
+#-----------------------------------------------------------
+start_gui
+open_checkpoint C:/Users/cover/OneDrive/Documents/vivado/lab6_files/ip_repo/full_radio/src/cmpy_0/cmpy_0.dcp
